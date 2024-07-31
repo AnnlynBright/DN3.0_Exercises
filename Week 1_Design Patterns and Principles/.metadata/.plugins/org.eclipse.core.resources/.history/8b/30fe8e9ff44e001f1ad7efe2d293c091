@@ -1,0 +1,5 @@
+package AdapterPatternExample;
+
+public class PayPalGateway {
+
+}

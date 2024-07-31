@@ -1,0 +1,6 @@
+package ObserverPatternExample;
+
+public class Observer {
+	void update(double stockPrice);
+
+}

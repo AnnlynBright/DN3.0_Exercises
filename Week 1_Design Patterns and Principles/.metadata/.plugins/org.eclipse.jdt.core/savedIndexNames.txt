@@ -1,0 +1,13 @@
+INDEX VERSION 1.134+C:\Users\annly\OneDrive\Desktop\DN3.0_Exercises\Week 1_Design Patterns and Principles\.metadata\.plugins\org.eclipse.jdt.core
+2580205265.index
+302862398.index
+1835291762.index
+3935856848.index
+2869710735.index
+1865797976.index
+3546885175.index
+2131343581.index
+2167369917.index
+4107530036.index
+650533982.index
+3175681817.index

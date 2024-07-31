@@ -1,0 +1,5 @@
+package StrategyPatternExample;
+
+public class CreditCardPayment {
+
+}
